@@ -1,3 +1,7 @@
+# sample
+https://go.dev/play/p/sG0lHJ-zPzF
+
+
 # go_todo_app
 このリポジトリは書籍「詳解Go言語Webアプリケーション開発」のサンプルコードリポジトリです。
 
